@@ -1,0 +1,77 @@
+CCCC(CCC)C1=CC=C(C=C1)O	4-heptan-4-ylphenol
+CCCCCCCC1=CC=C(C=C1)O	4-heptylphenol
+CC(C)(C)C1=CC=C(C=C1)O	4-tert-butylphenol
+COC(=O)NS(=O)(=O)C1=CC=C(C=C1)N	asulam
+C[C@H](C1=NC2=C(S1)C=C(C=C2)F)NC(=O)[C@H](C(C)C)NC(=O)O	benthiavalicarb
+C[C@H](CCCC(C)C)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](CCC3=C)O)C	cholecalciferol
+C1=CC=C(C(=C1)C2=NN=C(N=N2)C3=CC=CC=C3Cl)Cl	clofentezine
+C(#N)N	cyanamide
+COC1=C(C=C(C=C1)/C(=C/C(=O)N2CCOCC2)/C3=CC=C(C=C3)Cl)OC	dimethomorph
+CC(C)CCCCCCC1=CC=CC=C1O	isononylphenol
+C(CNC(=S)[S-])NC(=S)[S-].C(CNC(=S)[S-])NC(=S)[S-].[Mn+2].[Zn+2]	mancozeb
+CC#CC1=NC(=NC(=C1)C)NC2=CC=CC=C2	mepanipyrim
+C(CNC(=S)[S-])NC(=S)[S-].[Zn+2]	metiram
+CC(C)(C)C1=NN=C(N(C1=O)N)SC	metribuzin
+CC(C)CCCCCCC1=CC=C(C=C1)O	p-isononylphenol
+CCCCCCCCCC1=CC=C(C=C1)O	p-nonylphenol
+CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl	propiconazole
+CC1=C(C(=CC=C1)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=NC(=N2)OCC(F)(F)F)N(C)C	triflusulfuron-methyl
+CCN(CC)CCCN	3-aminopropyldiethylamine
+CN(C)CCCN	3-aminopropyldimethylamine
+CC1=CC=NN1	3-methylpyrazole
+C1=CC2=NNN=C2C=C1	benzotriazole
+CCC(=O)C	butanone
+C1=CC=C(C=C1)Cl	chlorobenzene
+CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C	deltamethrin
+CCCCCCCC[Sn](=O)CCCCCCCC	dioctyltin-oxide
+CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl	diuron
+C1=CC(=C2C(=C1)OC(O2)(F)F)C3=CNC=C3C#N	fludioxonil
+CC(C)N(C1=CC=C(C=C1)F)C(=O)COC2=NN=C(S2)C(F)(F)F	flufenacet
+CC1=C(C(=CC=C1)C(C)C2=CN=CN2)C	medetomidine
+C1=CC(=CC(=C1)O)O	resorcinol
+[F-].[Na+]	sodium-fluoride
+C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3	thiabendazole
+COC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OC	thiophanate-methyl
+C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl	triclosan
+CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Zn+2]	ziram
+CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O	bisphenol
+CCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCC	dipentyl-phthalate
+CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2	prochloraz
+C1=CC=C(C(=C1)C(=O)O)O	salicylic-acid
+C1=CC(=CC=C1NC(=O)NC2=CC(=C(C=C2)Cl)Cl)Cl	triclocarban
+C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O	Bisphenols
+C1=CC=C(C=C1)C(=O)C2=C(C=C(C=C2)O)O	Benzophenone-1
+C1=CC(=C(C=C1O)O)C(=O)C2=C(C=C(C=C2)O)O	Benzophenone-2
+COC1=CC(=C(C=C1)C(=O)C2=CC=CC=C2)O	Benzophenone-3
+CCCCC(CC)COC(=O)/C=C/C1=CC=C(C=C1)OC	Ethylhexyl	methoxycinnamate
+CCCOC(=O)C1=CC=C(C=C1)O	Propylparaben
+CCCCOC(=O)C1=CC=C(C=C1)O	Butylparaben
+CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Zn+2]	Ziram
+CN(C)C(=S)SSC(=S)N(C)C	Thiram
+C(CNC(=S)[S-])NC(=S)[S-].[Zn+2]	Zineb
+C1=C(C=C(C(=C1Br)O)Br)Br	Tribromophenol
+C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O	Pentachlorophenol
+C(=S)=S	Carbon	disulphide
+C(=C(Cl)Cl)(Cl)Cl	Perchloroethylene
+C[Si]1(O[Si](O[Si](O[Si](O1)(C)C2=CC=CC=C2)(C)C)(C)C3=CC=CC=C3)C	Quadrosilan
+C1=CC(=CC(=C1)O)O	Resorcinol
+CCCCCCCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCCCCCC	Diundecyl	phthalate
+C1CCC(CC1)OC(=O)C2=CC=CC=C2C(=O)OC3CCCCC3	Dicyclohexyl	phthalate
+CCOC(=O)C1=CC=CC=C1C(=O)OCC	Diethyl	phthalate
+CCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCC	Dihexyl	phthalate
+C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O	Bisphenol	S
+C1=CC(=CC=C1CC2=CC=C(C=C2)O)O	Bisphenol	F
+CC1=CC=C(C=C1)/C=C\2/C3CCC(C2=O)(C3(C)C)C	4-methylbenzylidene	camphor
+CC1(C\2CCC1(C(=O)/C2=C/C3=CC=CC=C3)C)C	3-Benzylidene	camphor
+C1=CC=C(C=C1)OP(=O)(OC2=CC=CC=C2)OC3=CC=CC=C3	Triphenyl	phosphate
+CCNC1=NC(=NC(=N1)Cl)NC(C)C	Atrazine
+CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C	Deltamethrin
+CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2	Prochloraz
+C1=CC(=CC=C1NC(=O)NC2=CC(=C(C=C2)Cl)Cl)Cl	Triclocarban
+C1=CC=C(C(=C1)C(=O)O)O	Salicylic	acid
+CC1=C(C=CC(=C1)OP(=S)(OC)OC)[N+](=O)[O-]	Fenitrothion
+CC1=C(C=CC=C1C2=CC=CC=C2)COC(=O)[C@@H]3[C@@H](C3(C)C)/C=C(/C(F)(F)F)\Cl	Bifenthrin
+CCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCC	Di-n-pentylphthalate
+C1=CC(=CC=C1C(C2=CC=C(C=C2)O)(C(F)(F)F)C(F)(F)F)O	Bisphenol	AF
+CC(C)COC(=O)C1=CC=C(C=C1)O	Isobutyl	paraben
+C1=C(C(=C(C(=C1Cl)Cl)CC2=C(C(=CC(=C2Cl)Cl)Cl)O)O)Cl	Hexachlorophene
